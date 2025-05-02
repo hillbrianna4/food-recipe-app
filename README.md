@@ -13,12 +13,12 @@ Market: Moms, Adults, Chefs, anyone who is hungry
 Habit: daily use 
 Scope: it collects login info, saves the recipes, and has an API where you can see other recipes
 Product Spec
-1. User Stories (Required and Optional)
+1. User Stories
 Required Must-have Stories
 
 [User can can register, sign in, sign up
 ...
-Optional Nice-to-have Stories
+
 
 
 ...
