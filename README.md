@@ -28,6 +28,19 @@ Optional Nice-to-have Stories
 [Another Screen Name]
 [Associated required user story]
 
+
+3. Navigation
+Tab Navigation (Tab to Screen)
+
+Home Feed
+Collection Board
+Flow Navigation (Screen to Screen)
+
+home
+Leads to collections, 
+Sign out
+Leads to Add more
+
 ![Screenshot (167)](https://github.com/user-attachments/assets/71001852-8e46-4afd-93da-8f798c7beb52)
 
 ![Screenshot (171)](https://github.com/user-attachments/assets/b2189bfc-1d77-460a-8e32-709684b33668)
