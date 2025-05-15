@@ -44,26 +44,62 @@ User can see recipes recommended based on their previous activity
 User can stay logged in between sessions (persist user session)
 
 
-
-...
 2. Screen Archetypes
-[Screen Name, e.g., Login Screen]
-[Required User Feature: User can add recipes to collection 
-[Another Screen Name]
-[Associated required user story]
+Login Screen
 
+✅ User can log in to their account
+
+Register Screen
+
+✅ User can register an account
+
+Home Feed Screen
+
+✅ User can view a list of all available recipes
+
+✅ User can tap on a recipe to view its details
+
+✅ User can search for recipes by keyword
+
+Add Recipe Screen
+
+✅ User can add a new recipe with title, ingredients, and instructions
+
+Recipe Detail Screen
+
+✅ User can view full recipe details
+
+✅ User can edit or delete their own recipes
+
+Collection/Favorites Screen
+
+⭐ User can save favorite recipes to view later
+
+⭐ User can view their personal recipe collection
 
 3. Navigation
 Tab Navigation (Tab to Screen)
+Home Feed → Home Feed Screen
 
-Home Feed
-Collection Board
+Collection Board → Collection/Favorites Screen
+
+Add Recipe → Add Recipe Screen
+
 Flow Navigation (Screen to Screen)
+Home Feed
+→ Leads to: Recipe Detail Screen
+→ Leads to: Add Recipe Screen
+→ Leads to: Sign Out/Login
 
-home
-Leads to collections, 
-Sign out
-Leads to Add more
+Sign Out
+→ Leads to: Login Screen
+
+Register
+→ Leads to: Login or Home Feed after registration
+
+
+https://github.com/user-attachments/assets/304c9306-b297-4e36-aef7-511bc939d4db
+
 
 ![Screenshot (167)](https://github.com/user-attachments/assets/71001852-8e46-4afd-93da-8f798c7beb52)
 ![Screenshot (186)](https://github.com/user-attachments/assets/ffce9ea6-27f7-4a6f-bdbf-a0ca9b884dc9)
