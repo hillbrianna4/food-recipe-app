@@ -13,11 +13,35 @@ Market: Moms, Adults, Chefs, anyone who is hungry
 Habit: daily use 
 Scope: it collects login info, saves the recipes, and has an API where you can see other recipes
 Product Spec
-1. User Stories
-Required Must-have Stories
 
-[User can can register, sign in, sign up
-...
+User Stories (Recipe App)
+Required Must-have Stories
+User can register an account
+
+User can log in and log out of their account
+
+User can add a new recipe with a title, ingredients, and instructions
+
+User can view a list of all available recipes
+
+User can tap on a recipe to view its details
+
+User can edit or delete a recipe they created
+
+User can search for recipes by keyword (e.g., name or ingredient)
+
+Optional Nice-to-have Stories
+User can upload a photo for their recipe
+
+User can filter recipes by category (e.g., vegetarian, dessert, quick meals)
+
+User can save favorite recipes to a personal list
+
+User can rate or leave comments on other users’ recipes
+
+User can see recipes recommended based on their previous activity
+
+User can stay logged in between sessions (persist user session)
 
 
 
@@ -42,7 +66,7 @@ Sign out
 Leads to Add more
 
 ![Screenshot (167)](https://github.com/user-attachments/assets/71001852-8e46-4afd-93da-8f798c7beb52)
+![Screenshot (186)](https://github.com/user-attachments/assets/ffce9ea6-27f7-4a6f-bdbf-a0ca9b884dc9)
 
-![Screenshot (171)](https://github.com/user-attachments/assets/b2189bfc-1d77-460a-8e32-709684b33668)
 ![Screenshot (172)](https://github.com/user-attachments/assets/e8a1b691-5b8b-4a06-a031-f185f5e687fa)
 
